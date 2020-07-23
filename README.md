@@ -1,1 +1,1 @@
-# psuedo_operative_committee
+# Psuedo Operative Committee
